@@ -4,6 +4,7 @@
 
 - React
 - CSS-Modules
-- Fake rest api Json-server
-- Библиотека clsx
+- API mocking library Mirage JS
+- Библиотека classNames
+- React Router
 - Axios
